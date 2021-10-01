@@ -1,5 +1,5 @@
 # onix-test
-[DemoLink]((https://maximbalyk.github.io/VueShop-test/)
+[DemoLink](https://maximbalyk.github.io/VueShop-test/)
 
 ## Project setup
 ```
