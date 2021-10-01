@@ -34,7 +34,7 @@
 
       <p class="center">
         Нет аккаунта?
-        <a href="/">Зарегистрироваться</a>
+        <a href="/VueShop-test">Зарегистрироваться</a>
       </p>
     </div>
   </form>
