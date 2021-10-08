@@ -14,7 +14,7 @@ export default new Router({
       component: () => import('./views/Login.vue')
     },
     {
-      path: '/VueShop-test',
+      path: '/',
       name: 'home',
       meta: {layout: 'main'},
       component: () => import('./views/Home.vue')
